@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "react-native-course",
+    "name": "Orgs",
     "slug": "react-native-course",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -15,9 +15,13 @@
       "**/*"
     ],
     "ios": {
+      "buildNumber": "1.0.0",
+      "bundleIdentifier": "com.maicon.appcoursereactnative",
       "supportsTablet": true
     },
     "android": {
+      "package": "com.maicon.appcoursereactnative",
+      "version": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
